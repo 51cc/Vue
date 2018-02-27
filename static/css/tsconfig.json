@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "orderNum":"DIY20171113093651891562",
+  "exclude": [
+    "node_modules"
+  ]
+}
